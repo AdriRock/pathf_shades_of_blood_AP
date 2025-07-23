@@ -1,5 +1,6 @@
 {
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
-  "attachmentFolderPath": "Вложения"
+  "attachmentFolderPath": "Вложения",
+  "useMarkdownLinks": true
 }
