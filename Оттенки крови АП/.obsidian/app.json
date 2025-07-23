@@ -3,5 +3,6 @@
   "newFileLocation": "current",
   "attachmentFolderPath": "Вложения",
   "useMarkdownLinks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "newLinkFormat": "absolute"
 }
